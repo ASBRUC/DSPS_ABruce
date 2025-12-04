@@ -1,4 +1,9 @@
 Completed by Alex Bruce.
+Part 0: Old Plot.
+Here are my original plots from HW7 - HiggsBosonSearch
+<img width="600" height="455" alt="image" src="https://github.com/user-attachments/assets/ac29c90f-0628-4f05-aca9-7d13f2f1897f" />
+
+
 Part 1: Redoing a plot. 
 I redid a plot from HW8, the confusion matrixes. They are here below. <img width="600" height="455" alt="image" src="https://github.com/user-attachments/assets/5677c110-6caa-4f16-9641-a24bd0a821fa" />
 <img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/c7ae8cbe-8eee-41a7-a3c5-9978643894a2" />
