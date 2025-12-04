@@ -2,6 +2,7 @@ Completed by Alex Bruce.
 Part 0: Old Plot.
 Here are my original plots from HW7 - HiggsBosonSearch
 <img width="600" height="455" alt="image" src="https://github.com/user-attachments/assets/ac29c90f-0628-4f05-aca9-7d13f2f1897f" />
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/f4ff1941-0ed8-4933-be57-57c2d5fa173b" />
 
 
 Part 1: Redoing a plot. 
