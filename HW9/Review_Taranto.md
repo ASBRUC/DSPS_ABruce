@@ -1,0 +1,7 @@
+**Improved Plot Review**
+
+Alex chose to remake their plots of confusion matrices and replaced the colorscheme from "bones" to "blues". I do agree with Alex that the plot's readability benefits from the change in color. There are several things which I would still improve. First, the plot does distort the number of false negatives by starting the color bar above 0 value. This can distort the color to be near white which would signify perfect performance which is not actually true. This same issue is present in the max of the color bar which should be 1 for the normalized confusion matrices.
+
+**Bad Plot Review**
+
+This plot doesn't really utilize the small multiples paradigm very well. The main reason is that it conveys too much information. Although it has a high data to ink ratio, this is mainly offset by the lack of insight the data provides. I would only include a plot like this if each (or trends) of the small plots are specifically mentioned in the paper or possibly in an appendix/supplement. I would try to solve the problems with this plot by first just cutting any of the plots which aren't specifically mentioned in the paper. If no specific plots are mentioned but rather a trend is mentioned. Then, I would plot a satistic representative of the trend vs wavelength as a line graph. In fact, multiple statistics could be plotted on the same axes if two statistics need to be related.
